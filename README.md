@@ -1,24 +1,16 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* ruby -v (ruby 2.4.1p111)
 
-* Ruby version
+* rails -v (Rails 5.2.3)
 
-* System dependencies
+* bundle install
 
-* Configuration
+* rspec
 
-* Database creation
+* rails s
 
-* Database initialization
+* import postman collection provided in root folder
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
